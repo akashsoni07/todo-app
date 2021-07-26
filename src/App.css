@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.form-control:focus{
+    box-shadow:none;
+}
+
+p{
+    background:linear-gradient(45deg,black,indigo);
+    padding:10px;
+    color:white;
+    border-radius:10px;
+}
+
+.btn{
+    background:linear-gradient(45deg,black,orange);
+    border:0;
+    outline:0;
+}
+
+i:hover{
+ cursor:pointer;
+}
